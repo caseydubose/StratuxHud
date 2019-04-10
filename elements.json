@@ -7,6 +7,10 @@
     "class": "adsb_target_bugs.AdsbTargetBugs",
     "detail_font": false
   },
+  "ADSB Target Bugs Only": {
+    "class": "adsb_target_bugs_only.AdsbTargetBugsOnly",
+    "detail_font": false
+  },
   "ADSB Reticles": {
     "class": "adsb_on_screen_reticles.AdsbOnScreenReticles",
     "detail_font": false
@@ -21,7 +25,7 @@
   },
   "System Info": {
     "class": "system_info.SystemInfo",
-    "detail_font": false
+    "detail_font": true
   },
   "Groundspeed": {
     "class": "groundspeed.Groundspeed",
